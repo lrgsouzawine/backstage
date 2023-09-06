@@ -241,7 +241,8 @@
     "@backstage/frontend-plugin-api": "0.0.0",
     "@backstage/plugin-auth-backend-module-gitlab-provider": "0.0.0",
     "@backstage/backend-plugin-manager": "0.0.0",
-    "@backstage/plugin-permission-backend-module-allow-all-policy": "0.0.0"
+    "@backstage/plugin-permission-backend-module-allow-all-policy": "0.0.0",
+    "app-next-example-plugin": "0.0.0"
   },
   "changesets": [
     "big-bananas-sleep",
@@ -251,6 +252,7 @@
     "calm-cups-smile",
     "catalog-everybody-to-the-limit",
     "chatty-goats-mate",
+    "chatty-spiders-serve",
     "chilly-parrots-yell",
     "cold-apricots-poke",
     "create-app-1692704146",
@@ -277,6 +279,7 @@
     "gorgeous-coins-attack",
     "great-chairs-swim",
     "grumpy-papayas-tie",
+    "grumpy-ties-know",
     "healthy-spiders-arrive",
     "healthy-tools-count",
     "hip-seahorses-exist",
@@ -289,6 +292,7 @@
     "late-roses-dream",
     "lazy-pumas-hope",
     "lazy-rice-rule",
+    "light-drinks-rush",
     "long-flowers-sort",
     "loud-apricots-destroy",
     "lovely-years-sniff",
@@ -345,6 +349,7 @@
     "warm-llamas-bake",
     "warm-panthers-lick",
     "weak-tomatoes-dance",
+    "wise-tables-add",
     "witty-ants-cover",
     "yellow-trains-protect",
     "yellow-yaks-behave",

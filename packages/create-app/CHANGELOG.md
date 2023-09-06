@@ -1,5 +1,13 @@
 # @backstage/create-app
 
+## 0.5.5-next.3
+
+### Patch Changes
+
+- 612594022245: Add a notification when `yarn install` is taking a long time.
+- Updated dependencies
+  - @backstage/cli-common@0.1.12
+
 ## 0.5.5-next.2
 
 ### Patch Changes
